@@ -1,6 +1,6 @@
-# Reyben- Modern Landing Page
+# Reyban- Modern Landing Page
 
-The Reyben Landing Page is a fresh, modern website made with HTML, CSS, and JavaScript. It uses the Shery.js library to add cool features.
+The Reyban Landing Page is a fresh, modern website made with HTML, CSS, and JavaScript. It uses the Shery.js library to add cool features.
 
 ## Technologies Used
 - HTML
